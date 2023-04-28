@@ -4,6 +4,8 @@
 
 name: ngtcp2
 
+permissions: read-all
+
 on:
   push:
     branches:
